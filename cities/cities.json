@@ -19,6 +19,10 @@
         "id": "braunschweig",
         "label": "Braunschweig"
     },
+    "bremen": {
+        "id": "bremen",
+        "label": "Bremen"
+    },
     "bruchköbel": {
         "id": "bruchköbel",
         "label": "Bruchköbel"

@@ -31,6 +31,7 @@ A small visualization of the weekly markets in different cities. Available at: h
 |[Bonn][bonn-wikipedia]|[City of Bonn][bonn-markets]|
 |[Bottrop][bottrop-wikipedia]|[City of Bottrop][bottrop-markets]|
 |[Braunschweig][braunschweig-wikipedia]|[City of Braunschweig][braunschweig-markets]|
+|[Bremen][bremen-wikipedia]|[City of Bremen][bremen-markets]|
 |[Bruchköbel][bruchköbel-wikipedia]|[Stadtmarketing Bruchköbel GmbH][bruchköbel-markets]|
 |[Chemnitz][chemnitz-wikipedia]|[City of Chemnitz][chemnitz-markets]|
 |[Dortmund][dortmund-wikipedia]|[City of Dortmund][dortmund-markets]|
@@ -104,6 +105,8 @@ The command to deploy manually is: `fab deploy -H deploy@kiesinger.okfn.de:2207`
 [bottrop-markets]: https://www.bottrop.de/vv/produkte/dezernat3/30/30-2/Wochenmaerkte.php
 [braunschweig-wikipedia]: https://de.wikipedia.org/wiki/Braunschweig
 [braunschweig-markets]: http://www.braunschweig.de/leben/einkaufen_maerkte/wochenmaerkte/index.html
+[bremen-wikipedia]: https://de.wikipedia.org/wiki/Bremen
+[bremen-markets]: https://www.bremen.de/wochenmaerkte
 [bruchköbel-wikipedia]: https://de.wikipedia.org/wiki/Bruchk%C3%B6bel
 [bruchköbel-markets]: http://www.stadtmarketing-bruchkoebel.de/einkaufen-geniessen/wochenmarkt-bruchkoebel/
 [chemnitz-wikipedia]: https://en.wikipedia.org/wiki/Chemnitz

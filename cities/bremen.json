@@ -1,0 +1,54 @@
+{
+  "crs": {
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    },
+    "type": "name"
+  },
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.81121",
+          "53.0929"
+        ]
+      },
+      "properties": {
+        "title": "Findorffmarkt",
+        "location": "Neukirchstrasse",
+        "opening_hours": "Tu,Th 8:00-13:00;Sa 8:00-14:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  "8.918108940124512",
+          "53.04109047899697"
+        ]
+      },
+      "properties": {
+        "title": "Wochenmarkt Arbergen",
+        "location": "Colzhornstraße",
+        "opening_hours": "Fr 08:00-13:00"
+      }
+    }
+  ],
+  "metadata": {
+    "data_source": {
+      "title": "Stadt Bremen",
+      "url": "https://www.bremen.de/wochenmaerkte"
+    },
+    "map_initialization": {
+      "coordinates": [
+        8.807258605957031,
+        53.07757913041941
+      ],
+      "zoom_level": 13
+    }
+  }
+}
